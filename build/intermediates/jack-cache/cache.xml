@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\classes-098e7fc20d4d34eb981d4d0b1a80af3d97d665fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\support-annotations-23.4.0-e4e2faff793d16bcfc42e1a9c10f11d37f68e83e.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\classes-90ed64e5d794da996398a7664b55c93db858cbc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\classes-c324e605c9d3e731c48967d365739a7263f74d39.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\internal_impl-23.4.0-315abd93397ab1ddf6004c32d4d47f1c12e84f33.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\packaged\classes-dabc08923b57dac53705a98e26df1896f58e338a.jar" />
+    </item>
+    <item
+        jar="C:\Users\schmidt\AppData\Local\Android\android-sdk\platforms\android-24\android.jar"
+        revision="24.0.0"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="C:\Users\schmidt\Dropbox\POSA\Android-App-Development\ex\MapLocation\app\build\intermediates\jill\debug\runtime\android-121a5526701711db367f4aaaeca50e5d9272e5d8.jar" />
+    </item>
+
+</items>
